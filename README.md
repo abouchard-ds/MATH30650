@@ -18,20 +18,20 @@ On y voit des statistiques qui seront couvertes plus en profondeur dans le cours
 
 #### Table des matieres
 
-| Sceance | Theme                               | Sujet                                | Notebook       | Presentation |
-| :-----: | :---------------------------------- | :----------------------------------- | :------------- | :----------- |
-|    1    | Analyse exploratoire des données    | Introduction et mise à niveau Excel  | [Notebook][00] | [pdf][s00]   |
-|    2    | Analyse exploratoire des données    | Les statistiques descriptives        | [Notebook][01] | [pdf][s01]   |
-|    3    | La valorisation des données         | Les règles d'association             | [Notebook][02] | [pdf][s02]   |
-|    4    | La décision optimale en gestion     | La modélisation                      | [Notebook][03] | [pdf][s03]   |
-|    5    | La décision optimale en gestion     | L'optimisation                       | [Notebook][04] | [pdf][s04]   |
-|    6    | Décison en contexte d'incertitude   | Les bases du calcul en probabilité   | [Notebook][05] | [pdf][s05]   |
-|    7    | Décison en contexte d'incertitude   | Les lois usuelles                    | [Notebook][06] | [pdf][s06]   |
-|    8    | Décison en contexte d'incertitude   | La simulation Monte Carlo            | [Notebook][07] | [pdf][s07]   |
-|    9    | Les mathématiques financières       | Le temps c'est de l'argent!          | [Notebook][08] | [pdf][s08]   |
-|    10   | Les mathématiques financières       | Riche aujourd'hui ou riche à jamais? | [Notebook][09] | [pdf][s09]   |
-|    11   | Gestion de portefeuille             | Gestion de portefeuille              | [Notebook][10] | [pdf][s10]   |
-|    12   | Cas intégrateur                     | Cas intégrateur                      | [Notebook][11] | [pdf][s11]   |
+| Cours | Date  | Theme                               | Sujet                                | Notebook       | Presentation |
+| :-----: | :---- | :---------------------------------- | :----------------------------------- | :------------- | :----------- |
+|    1    | 01-08 | Analyse exploratoire des données    | Introduction et mise à niveau Excel  | [Notebook][00] | [pdf][s00]   |
+|    2    | 01-15 | Analyse exploratoire des données    | Les statistiques descriptives        | [Notebook][01] | [pdf][s01]   |
+|    3    | 01-22 | La valorisation des données         | Les règles d'association             | [Notebook][02] | [pdf][s02]   |
+|    4    | 01-29 | La décision optimale en gestion     | La modélisation                      | [Notebook][03] | [pdf][s03]   |
+|    5    | 02-05 | La décision optimale en gestion     | L'optimisation                       | [Notebook][04] | [pdf][s04]   |
+|    6    | 00-00 | Décison en contexte d'incertitude   | Les bases du calcul en probabilité   | [Notebook][05] | [pdf][s05]   |
+|    7    | 00-00 | Décison en contexte d'incertitude   | Les lois usuelles                    | [Notebook][06] | [pdf][s06]   |
+|    8    | 00-00 | Décison en contexte d'incertitude   | La simulation Monte Carlo            | [Notebook][07] | [pdf][s07]   |
+|    9    | 00-00 | Les mathématiques financières       | Le temps c'est de l'argent!          | [Notebook][08] | [pdf][s08]   |
+|    10   | 00-00 | Les mathématiques financières       | Riche aujourd'hui ou riche à jamais? | [Notebook][09] | [pdf][s09]   |
+|    11   | 00-00 | Gestion de portefeuille             | Gestion de portefeuille              | [Notebook][10] | [pdf][s10]   |
+|    12   | 00-00 | Cas intégrateur                     | Cas intégrateur                      | [Notebook][11] | [pdf][s11]   |
 
 [00]: cours/Notes01.ipynb
 [01]: cours/Notes02.ipynb
