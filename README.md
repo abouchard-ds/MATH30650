@@ -5,7 +5,7 @@
 #### Description
 Le cours d'introduction a l'analytique couvre superficiellement tous les cours qui composent le certificat en analytique d'affaires. C'est un pre-requis pour le cours *Modèles d'optimisation et de recherche opérationnelle*. Il est regit par le *Departement des Sciences de la Decision (MATH)*. 
 
-On y survole les theme du certificat: statistiques (`MATH30600_Statistique` et ` MATH30603_Méthodes statistiques avancées`), des visualisations de donnees (` MATH30606_Traitement et visualisation de données`), les regles d'association (`MATH30636_Introduction à l'exploitation de données`), de l'optimisation mathematique ('MATH30604_Modèles d'optimisation et de recherche opérationnelle'), etc.
+On y survole les themes du certificat: statistiques (`MATH30600_Statistique` et ` MATH30603_Méthodes statistiques avancées`), des visualisations de donnees (` MATH30606_Traitement et visualisation de données`), les regles d'association (`MATH30636_Introduction à l'exploitation de données`), de l'optimisation mathematique ('MATH30604_Modèles d'optimisation et de recherche opérationnelle'), etc.
 
 #### Objectifs personnels
 
