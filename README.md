@@ -33,14 +33,14 @@ On y voit des statistiques qui seront couvertes plus en profondeur dans le cours
 |    11   | 00-00 | Gestion de portefeuille             | Gestion de portefeuille              | [Notebook][10] | [pdf][s10]   |
 |    12   | 00-00 | Cas intégrateur                     | Cas intégrateur                      | [Notebook][11] | [pdf][s11]   |
 
-[00]: cours/Notes01.ipynb
-[01]: cours/Notes02.ipynb
-[02]: cours/Notes03.ipynb
-[03]: cours/Notes04.ipynb
-[04]: cours/Notes05.ipynb
-[05]: cours/Notes06.ipynb
-[06]: cours/Notes07.ipynb
-[07]: cours/Notes08.ipynb
+[00]: cours1_intro/Sceance01.ipynb
+[01]: cours2_stats/Sceance02.ipynb
+[02]: cours3_association/Sceance03.ipynb
+[03]: cours4_modelisation/Sceance04.ipynb
+[04]: cours5_optimisation/Sceance05.ipynb
+[05]: cours6_probabilite/Sceance06.ipynb
+[06]: cours7_lois_proba/Sceance07.ipynb
+[07]: cours8_montecarlo/Sceance08.ipynb
 [08]: cours/Notes09.ipynb
 [09]: cours/Notes10.ipynb
 [10]: cours/Notes11.ipynb
