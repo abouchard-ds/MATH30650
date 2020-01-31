@@ -9,11 +9,9 @@ On y survole les themes du certificat: statistiques (`MATH30600_Statistique` et 
 
 #### Objectifs personnels
 
-- Aller plus loin que la matiere;
-- Transferer les connaissances acquises sous Python ce qui me sera plus utile;
+- Aller plus loin que la matiere, apprendre plus;
+- Transferer les connaissances acquises sous Python;
 - Faire des liens avec d'autres cours et connaissances;
-- Publier mes notes pour etudier la matiere d'une autre facon;
-- Pratiquer l'usage de Git, Jupyter et la communication;
 - Obtenir de meilleurs resultats;
 
 #### Table des matieres
