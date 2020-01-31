@@ -46,14 +46,14 @@ On y voit des statistiques qui seront couvertes plus en profondeur dans le cours
 [10]: cours/Notes11.ipynb
 [11]: cours/Notes12.ipynb
 
-[s00]: cours/notes/Sceance01.pdf
-[s01]: cours/notes/Sceance02.pdf
-[s02]: cours/notes/Sceance03.pdf
-[s03]: cours/notes/Sceance04.pdf
-[s04]: cours/notes/Sceance05.pdf
-[s05]: cours/notes/Sceance06.pdf
-[s06]: cours/notes/Sceance07.pdf
-[s07]: cours/notes/Sceance08.pdf
+[s00]: cours1_intro/notes/Sceance01.pdf
+[s01]: cours2_stats/notes/Sceance02.pdf
+[s02]: cours3_association/notes/Sceance03.pdf
+[s03]: cours4_modelisation/notes/Sceance04.pdf
+[s04]: cours5_optimisation/notes/Sceance05.pdf
+[s05]: cours6_probabilite/notes/Sceance06.pdf
+[s06]: cours7_lois_proba/notes/Sceance07.pdf
+[s07]: cours8_montecarlo/notes/Sceance08.pdf
 [s08]: cours/notes/Sceance09.pdf
 [s09]: cours/notes/Sceance10.pdf
 [s10]: cours/notes/Sceance11.pdf
@@ -64,5 +64,5 @@ On y voit des statistiques qui seront couvertes plus en profondeur dans le cours
 | Nom                             | Description et usage                          | Notes                               | 
 | :------------------------------ | :-------------------------------------------- | :---------------------------------- |
 | Gabarit statistique descriptive | Permet de faire ...                           | Cours 2                             |
-|                                 |                                               |                                     |
-
+| Gabarit regles d'association    |                                               | Cours 3                             |
+|                                  |                                            |                                      |
