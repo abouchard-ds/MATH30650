@@ -22,13 +22,15 @@ On y survole les themes du certificat: statistiques (`MATH30600_Statistique` et 
 |    3    | 01-22 | La valorisation des données         | Les règles d'association             | [Notebook][02] | [pdf][s02]   |
 |    4    | 01-29 | La décision optimale en gestion     | La modélisation                      | [Notebook][03] | [pdf][s03]   |
 |    5    | 02-05 | La décision optimale en gestion     | L'optimisation                       | [Notebook][04] | [pdf][s04]   |
-|    6    | 00-00 | Décison en contexte d'incertitude   | Les bases du calcul en probabilité   | [Notebook][05] | [pdf][s05]   |
-|    7    | 00-00 | Décison en contexte d'incertitude   | Les lois usuelles                    | [Notebook][06] | [pdf][s06]   |
-|    8    | 00-00 | Décison en contexte d'incertitude   | La simulation Monte Carlo            | [Notebook][07] | [pdf][s07]   |
-|    9    | 00-00 | Les mathématiques financières       | Le temps c'est de l'argent!          | [Notebook][08] | [pdf][s08]   |
-|    10   | 00-00 | Les mathématiques financières       | Riche aujourd'hui ou riche à jamais? | [Notebook][09] | [pdf][s09]   |
-|    11   | 00-00 | Gestion de portefeuille             | Gestion de portefeuille              | [Notebook][10] | [pdf][s10]   |
-|    12   | 00-00 | Cas intégrateur                     | Cas intégrateur                      | [Notebook][11] | [pdf][s11]   |
+|    6    | 02-12 | Décison en contexte d'incertitude   | Les bases du calcul en probabilité   | [Notebook][05] | [pdf][s05]   |
+|    7    | 02-19 | Décison en contexte d'incertitude   | Les lois usuelles                    | [Notebook][06] | [pdf][s06]   |
+| Intra   | 02-29 | Intra, sceances 1 a 7               |                                      |                |              |
+|    8    | 03-11 | Décison en contexte d'incertitude   | La simulation Monte Carlo            | [Notebook][07] | [pdf][s07]   |
+|    9    | 03-18 | Les mathématiques financières       | Le temps c'est de l'argent!          | [Notebook][08] | [pdf][s08]   |
+|    10   | 03-25 | Les mathématiques financières       | Riche aujourd'hui ou riche à jamais? | [Notebook][09] | [pdf][s09]   |
+|    11   | 04-01 | Gestion de portefeuille             | Gestion de portefeuille              | [Notebook][10] | [pdf][s10]   |
+|    12   | 04-08 | Cas intégrateur                     | Cas intégrateur                      | [Notebook][11] | [pdf][s11]   |
+| Final   |  ||||
 
 [00]: cours1_intro/Sceance01.ipynb
 [01]: cours2_stats/Sceance02.ipynb
