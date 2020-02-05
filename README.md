@@ -9,10 +9,9 @@ On y survole les themes du certificat: statistiques (`MATH30600_Statistique` et 
 
 #### Objectifs personnels
 
-- Aller plus loin que la matiere, apprendre plus;
+- Aller plus loin, apprendre plus;
 - Transferer les connaissances acquises sous Python;
 - Faire des liens avec d'autres cours et connaissances;
-- Obtenir de meilleurs resultats;
 
 #### Table des matieres
 
@@ -61,6 +60,6 @@ On y survole les themes du certificat: statistiques (`MATH30600_Statistique` et 
 
 | Nom                             | Description et usage                          | Notes                               | 
 | :------------------------------ | :-------------------------------------------- | :---------------------------------- |
-| Gabarit statistique descriptive | Permet de faire ...                           | Cours 2                             |
-| Gabarit regles d'association    |                                               | Cours 3                             |
+| Gabarit statistique descriptive | Desc,boxplot,histo               | [Cours 2](outils/Gabarit_StatistiquesDescriptives.xlsx)|
+| Gabarit regles d'association    | Regles association                      | [Cours 3](outils/Gabarit_Association.xlsx) |
 |                                  |                                            |                                      |
